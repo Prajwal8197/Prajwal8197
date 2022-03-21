@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajwal8197
 - 👀 I’m interested in .OOPS with C++ , C programming and python..
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning  python and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
